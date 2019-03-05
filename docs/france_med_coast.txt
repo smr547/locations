@@ -1,4 +1,4 @@
-# French Meditteranian Coast 
+# French Mediterranean Coast 
 
 location Nice is "Port de Villefranche-sur-Mer, France"
 location Cerbre is "Cape Cerbre, France"
@@ -10,7 +10,7 @@ location Cannes is "Cannes, France"
 location Vendres is "Port, Vendres"
 location Monaco is "Monaco"
 
-# Useful waypoints from Imrays 'Mediterranian Coast and Corsica' 
+# Useful waypoints from Imrays 'Mediterranean France and Corsica Pilot' 
 
 location IV_1 at 5 44'.37E 43 4'.66N is "W of Seche de Magnons Embiez"
 location IV_2 at 5 51'.56E 43 2'.24N is "S of Cap Sicie"
