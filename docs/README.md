@@ -11,3 +11,6 @@ Here is what we have built so far:
 
 * [Corsica](./corsica.txt)
 * [France Meditterainean coast](./france_med_coast.txt)
+* [Italy](./italy.txt)
+* [Sardinia](./sardinia.txt)
+
