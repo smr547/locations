@@ -10,3 +10,4 @@ A ``How To`` document will be published soon. But for now, simply follow the exa
 Here is what we have built so far:
 
 * [Corsica](./corsica.txt)
+* [France Meditterainean coast](./france_med_coast.txt)
