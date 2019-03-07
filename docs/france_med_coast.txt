@@ -2,7 +2,7 @@
 
 location Nice is "Port de Villefranche-sur-Mer, France"
 location Cerbre is "Cape Cerbre, France"
-location Toulon is "Toulon, France" URL https://www.noonsite.com/Countries/France/Toulon-laSeyne
+location Toulon is "Toulon, France"
 location Hyeres is "Hyeres, France"
 location Frejus is "Frejus, France"
 location Antibes is "Antibes, France"
