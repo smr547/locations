@@ -8,6 +8,8 @@ location Cargese is "Cargese Corsica"
 location Ajaccio is "Ajaccio Corsica"
 location Macinaggio is "Macinaggio Corsica"
 location Propriano is "Propriano Corsica"
+# megaliths at Filitosa
+location Filitosa is "Filitosa, Corisca"
 location Banifacio is "Banifacio Corsica"
 location Vecchio is "Porto Vecchio Corsica"
 location StFlorent is "St Florent Corsica"
