@@ -10,6 +10,8 @@ location Macinaggio is "Macinaggio Corsica"
 location Propriano is "Propriano Corsica"
 # megaliths at Filitosa
 location Filitosa is "Filitosa, Corisca"
+location Tizzano is "Tizzano, Corsica"
+location Palaggiu is "Palaggiu, Corsica"
 location Banifacio is "Banifacio Corsica"
 location Vecchio is "Porto Vecchio Corsica"
 location StFlorent is "St Florent Corsica"
