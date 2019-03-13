@@ -1,6 +1,7 @@
 location Bastia is "Bastia Corsica"
 location Calvi is "Calvi Corsica"
 location Elbo is "Baie d Elbo, France"
+location Arone is "Plage d Arone, Corsica, France"
 location Crovani is "Baie d Crovani, France"
 location Girolata is "Girolata Corsica"
 location Cargese is "Cargese Corsica"
