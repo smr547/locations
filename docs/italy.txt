@@ -28,3 +28,10 @@ location Pozzuoli is "Port of Pozzuoli, Italy"
 location Baia is "Porto de Baia, Bacoli, Italy"
 location Miseno is "Porto Miseno, Italy"
 location DiMeta is "Marina di Meta, Italy"
+
+# Imrays waypoints
+
+location IWP3_10 at 13 48'.50E 40 42'.60N is "Pta Impratore"
+location IWP3_11 at 14 19'.07E 40 46'.49N is "Capo Miseno"
+location IWP3_12 at 14 09'.20E 40 32'.10N is "Point Carina"
+location IWP3_13 at 14 19'.07E 40 34'.12N is "Point Licosa"
