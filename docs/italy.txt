@@ -14,6 +14,8 @@ location Piombino is "Piombino Italy"
 location Portoferraio is "Portoferraio Italy"
 location Livorno is "Livorno Italy"
 location Chiavari is "Chiavari Italy"
+location Moneglia is "Moneglia Italy"
+location Portofino is "Portofino Italy"
 location Genoa is "Genoa Italy"
 
 # Bay of Naples
