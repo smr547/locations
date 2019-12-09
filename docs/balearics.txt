@@ -1,2 +1,3 @@
 location Soller is "Porto de Soller Majorca Spain"
 location Palma is "Puerto de Palma Majorca Spain"
+location Mahon is "Puerto de Mahon Menorca Spain"
