@@ -1,3 +1,21 @@
+# Majorca
+
 location Soller is "Porto de Soller Majorca Spain"
 location Palma is "Puerto de Palma Majorca Spain"
+location Sant_Elm is "Sant Elm, Majorca, Spain"
+location Camp_de_Mar is "Camp de Mar, Majorca, Spain"
+location Sol_de_Mallorca is "Sol de Mallorca, Majorca, Spain"
+location Cala_Millor is "Cala Millor, Majorca, Spain"
+location Alcudia is "Alcudi, Majorca, Spain"
+
+# Menorca
+
 location Mahon is "Puerto de Mahon Menorca Spain"
+location Punta_Prima is "Punta Prima, Menorca, Spain"
+location Ciutadella is "Ciutadella de Menorca, Spain"
+location Xoriguer is "Son Xoriguer, Menorca, Spain"
+location Serpentona is "Serpentona, Menorca, Spain"
+
+# Cabrera
+
+location Cabrera is "Cabrera, Spain"

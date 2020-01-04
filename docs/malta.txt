@@ -1,0 +1,19 @@
+# Malta
+
+location Valetta is "Grand Harbour Valetta Malta"
+location Marsamxett is "Marsamxett Harbour Malta"
+location Gzira is "Gzira Malta" 
+location Cefalu is "Cefalu, Malta" 
+location Marsaxloki is "Marsaxloki Malta"
+location Portomaso is "St Julians Bay Malta"
+location Mellieha is "Mellieha Bay, Malta"
+
+# Gozo
+
+location Mgarr is "Mgarr Harbour, Ghajnsielem, Malta"
+location Marsalforn is "Marsalforn Bay, Gozo, Malta"
+
+# Cominoto
+
+location Blue_Lagoon is "Blue Lagoon, Cominoto, Malta"
+location Santa_Marija is "Santa Marija Bay, Cominoto, Malta"
