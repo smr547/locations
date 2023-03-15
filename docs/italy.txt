@@ -31,6 +31,14 @@ location Baia is "Porto de Baia, Bacoli, Italy"
 location Miseno is "Porto Miseno, Italy"
 location DiMeta is "Marina di Meta, Italy"
 
+# Southern Italy
+
+location Licarta is "Licarta, Italy"
+location Siderno is "Siderno, Italy"
+location Leuca is "Leuca, Italy"
+location Badisco is "Porto Badisco, Italy"
+location Brindisi is "Brindisi, Italy"
+
 # Imrays waypoints
 
 location IWP3_10 at 13 48'.50E 40 42'.60N is "Pta Impratore"
