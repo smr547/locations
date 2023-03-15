@@ -1,0 +1,5 @@
+location Split is "Split, Croatia"
+location Dubrovnik is "Dubrovnik, Croatia"
+location Kardeljevo is "Kardeljevo, Croatia"
+location Zudar is "Zudar, Croatia"
+location Rijeka is "Rijeka, Croatia"

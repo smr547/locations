@@ -1,0 +1,7 @@
+
+# ports of entry Tunisia
+
+location Bizerte is "Marina Bizerte, Bizerte, Tunisia"
+location Gamarth is "Marina de Gamarth, Tunisia"
+location Hammamet at 10 32'.786E 36 22'.193N is "Yasmine Hammamet, Tunisia"
+
